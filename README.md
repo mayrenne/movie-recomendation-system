@@ -15,12 +15,6 @@ This project implements a personalized movie recommendation system using the Mov
 - Dataset source: [https://grouplens.org/datasets/movielens/100k/](https://grouplens.org/datasets/movielens/100k/)
 
 ---
-
-## Skills / Technologies
-- **Programming & Libraries**: Python, NumPy, SciPy, PyTorch, Matplotlib
-- **Mathematics / ML Concepts**: Linear algebra, singular value decomposition, matrix factorization, latent factor models, regularization
-- **Software Practices**: Modular code, function encapsulation, reproducible experiments
----
 ## Features
 
 This repository contains a **single Python script** that handles:
