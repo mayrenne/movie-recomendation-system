@@ -27,7 +27,7 @@ This repository contains a **single Python script** that handles:
 - Data loading and processing
 - Modeling and matrix factorization
 - Training
-- Evalutuation
+- Evaluation
 - Result visualization
 ---
   ## Results
