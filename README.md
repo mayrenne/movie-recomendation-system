@@ -22,12 +22,6 @@ This project implements a personalized movie recommendation system using the Mov
 - **Software Practices**: Modular code, function encapsulation, reproducible experiments
 
 ---
-## Project Structure
-- `README.md`→ youre here! the main project description :)
-- `movie_recommendations` → main 
-- `results/`
-  - figures of MSE results
----
   ## Results
 
 ### SVD Approximations
@@ -37,3 +31,19 @@ This project implements a personalized movie recommendation system using the Mov
 ### Alternating Minimization
 ![Alternating Minimization MSE vs Latent Factors](figures/alt_min_mse_plot.png)
 *Training and test MSE for different latent factor dimensions using alternating minimization.*
+
+## Project Structure
+- `README.md`→ youre here! the main project description :)
+- `movie_recommendations` → main 
+- `results/`
+  - figures of MSE results
+---
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/matrix-recommendation-system.git
+cd matrix-recommendation-system
+
+*run the main script*
+python hw4_a4_matrix_completion.py
