@@ -47,4 +47,4 @@ cd matrix-recommendation-system
 
 run the main script:
 
-python hw4_a4_matrix_completion.py
+python movie_recommendation.py
