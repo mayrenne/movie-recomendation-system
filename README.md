@@ -27,3 +27,13 @@ This project implements a personalized movie recommendation system using the Mov
 - `movie_recommendations` → main 
 - `results/`
   - figures of MSE results
+---
+  ## Results
+
+### SVD Approximations
+![SVD MSE vs Latent Factors](figures/svd_mse_plot.png)
+*Training and test MSE for different latent factor dimensions using SVD.*
+
+### Alternating Minimization
+![Alternating Minimization MSE vs Latent Factors](figures/alt_min_mse_plot.png)
+*Training and test MSE for different latent factor dimensions using alternating minimization.*
