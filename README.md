@@ -34,7 +34,7 @@ This project implements a personalized movie recommendation system using the Mov
 
 ## Project Structure
 - `README.md`→ youre here! the main project description :)
-- `movie_recommendations` → main 
+- `movie_recommendations` → main python code
 - `results/`
   - figures of MSE results
 ---
@@ -45,5 +45,6 @@ This project implements a personalized movie recommendation system using the Mov
 git clone https://github.com/YOUR_USERNAME/matrix-recommendation-system.git
 cd matrix-recommendation-system
 
-*run the main script*
+run the main script:
+
 python hw4_a4_matrix_completion.py
