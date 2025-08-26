@@ -20,9 +20,18 @@ This project implements a personalized movie recommendation system using the Mov
 - **Programming & Libraries**: Python, NumPy, SciPy, PyTorch, Matplotlib
 - **Mathematics / ML Concepts**: Linear algebra, singular value decomposition, matrix factorization, latent factor models, regularization
 - **Software Practices**: Modular code, function encapsulation, reproducible experiments
+---
+## Features
 
+This repository contains a **single Python script** that handles:
+- Data loading and processing
+- Modeling and matrix factorization
+- Training
+- Evalutuation
+- Result visualization
 ---
   ## Results
+We investigate the accuracy of our different estimators i.e if user j likes movie i
 
 ### SVD Approximations
 ![SVD MSE vs Latent Factors](figures/svd_mse_plot.png)
