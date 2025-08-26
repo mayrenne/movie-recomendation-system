@@ -7,8 +7,6 @@ This script implements:
 - Rank-one estimator (average movie ratings)
 - Rank-d SVD approximation
 - Alternating minimization with regularization for latent factors
-
-Author: Crystal Reyes
 """
 
 import csv
